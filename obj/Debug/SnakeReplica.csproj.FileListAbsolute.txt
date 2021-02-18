@@ -1,0 +1,10 @@
+C:\C#_VisualStudio\SnakeReplica\bin\Debug\SnakeReplica.exe.config
+C:\C#_VisualStudio\SnakeReplica\bin\Debug\SnakeReplica.exe
+C:\C#_VisualStudio\SnakeReplica\bin\Debug\SnakeReplica.pdb
+C:\C#_VisualStudio\SnakeReplica\obj\Debug\SnakeReplica.csprojAssemblyReference.cache
+C:\C#_VisualStudio\SnakeReplica\obj\Debug\SnakeReplica.Form1.resources
+C:\C#_VisualStudio\SnakeReplica\obj\Debug\SnakeReplica.Properties.Resources.resources
+C:\C#_VisualStudio\SnakeReplica\obj\Debug\SnakeReplica.csproj.GenerateResource.cache
+C:\C#_VisualStudio\SnakeReplica\obj\Debug\SnakeReplica.csproj.CoreCompileInputs.cache
+C:\C#_VisualStudio\SnakeReplica\obj\Debug\SnakeReplica.exe
+C:\C#_VisualStudio\SnakeReplica\obj\Debug\SnakeReplica.pdb
