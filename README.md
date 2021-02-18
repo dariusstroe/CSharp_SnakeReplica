@@ -1,3 +1,3 @@
-C# Snake Replica  
+# C# Snake Replica  
 
 Arrow keys to play
